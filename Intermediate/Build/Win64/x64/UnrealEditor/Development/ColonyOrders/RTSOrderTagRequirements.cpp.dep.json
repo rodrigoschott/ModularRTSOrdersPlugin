@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unrealengine\\rtssystemplugindev\\plugins\\colonyorders\\source\\colonyorders\\private\\orders\\rtsordertagrequirements.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unrealengine\\rtssystemplugindev\\intermediate\\build\\win64\\x64\\rtssystemplugindeveditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\unrealengine\\rtssystemplugindev\\plugins\\colonyorders\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\colonyorders\\definitions.colonyorders.h",
+            "f:\\unrealengine\\rtssystemplugindev\\plugins\\colonyorders\\source\\colonyorders\\public\\orders\\rtsordertagrequirements.h",
+            "e:\\programas\\epic games\\ue_5.5\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "e:\\programas\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "e:\\programas\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "f:\\unrealengine\\rtssystemplugindev\\plugins\\colonyorders\\intermediate\\build\\win64\\unrealeditor\\inc\\colonyorders\\uht\\rtsordertagrequirements.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

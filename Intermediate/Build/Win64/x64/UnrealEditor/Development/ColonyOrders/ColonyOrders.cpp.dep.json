@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unrealengine\\rtssystemplugindev\\plugins\\colonyorders\\source\\colonyorders\\private\\colonyorders.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unrealengine\\rtssystemplugindev\\intermediate\\build\\win64\\x64\\rtssystemplugindeveditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\unrealengine\\rtssystemplugindev\\plugins\\colonyorders\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\colonyorders\\definitions.colonyorders.h",
+            "f:\\unrealengine\\rtssystemplugindev\\plugins\\colonyorders\\source\\colonyorders\\public\\colonyorders.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
